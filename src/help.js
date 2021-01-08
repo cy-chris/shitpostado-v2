@@ -1,13 +1,13 @@
 
 const help = (prefix) => { 
 	return `                 
-┏━━☜*About Bot*☞━━┓
+┏━━☜*𝑴𝑨𝑰𝑺 𝑫𝑶 𝑩𝑶𝑻*☞━━┓
 ┣⊱ *${prefix}owner*
 ┣⊱ *${prefix}donasi*
 ┣⊱ *${prefix}info*
 ┣⊱ *${prefix}botstat*
 ┣⊱ *${prefix}bug*
-┣━━☜*Maker*☞━━
+┣━━☜*𝑺𝑻𝑰𝑪𝑲𝑬𝑹𝑺 𝑬 𝑷𝑨*☞━━
 ┣⊱ *${prefix}ocr*
 ┣⊱ *${prefix}sticker*
 ┣⊱ *${prefix}tts*
@@ -22,7 +22,7 @@ const help = (prefix) => {
 ┣⊱ *${prefix}apakah*
 ┣⊱ *${prefix}bisakah*
 ┣⊱ *${prefix}rate*
-┣━━☞*Fun*☞━━━━
+┣━━☞*𝑫𝑰𝑽𝑬𝑹𝑺𝑨𝑼𝑴*☞━━━━
 ┣⊱ *${prefix}meme*
 ┣⊱ *${prefix}memeindo*
 ┣⊱ *${prefix}hilih*
@@ -31,7 +31,7 @@ const help = (prefix) => {
 ┣⊱ *${prefix}dare*
 ┣⊱ *${prefix}bucin*
 ┣⊱ *${prefix}persengay*
-┣━━☞*Anime*☞━━
+┣━━☞*𝑨𝑵𝑰𝑴𝑬*☞━━
 ┣⊱ *${prefix}loli*
 ┣⊱ *${prefix}nsfwloli*
 ┣⊱ *${prefix}anime*
@@ -41,10 +41,10 @@ const help = (prefix) => {
 ┣⊱ *${prefix}nsfwblowjob*
 ┣⊱ *${prefix}nsfwneko*
 ┣⊱ *${prefix}nsfwtrap*
-┣━━☞*Media*☞━━
+┣━━☞*𝑴𝑰𝑫𝑰𝑨*☞━━
 ┣⊱ *${prefix}tiktokstalk*
 ┣⊱ *${prefix}ytmp4*
-┣━━☞*Other*☜━━
+┣━━☞*𝑶𝑼𝑻𝑹𝑶𝑺 𝑪𝑶𝑴𝑨𝑵𝑫𝑶*☜━━
 ┣⊱ *${prefix}ping*
 ┣⊱ *${prefix}shorturl*
 ┣⊱ *${prefix}fototiktok*
@@ -64,7 +64,7 @@ const help = (prefix) => {
 ┣⊱ *${prefix}ssweb*
 ┣⊱ *${prefix}anjing*
 ┣⊱ *${prefix}indohot*
-┣━━☞*Grupo*☜━━
+┣━━☞*𝑮𝑹𝑼𝑷𝑶*☜━━
 ┣⊱ *${prefix}linkgc*
 ┣⊱ *${prefix}tagall*
 ┣⊱ *${prefix}add* [+62xx]
@@ -76,7 +76,7 @@ const help = (prefix) => {
 ┣⊱ *${prefix}simih* [1/0]
 ┣⊱ *${prefix}nsfw* [1/0]
 ┣⊱ *${prefix}welcome* [1/0]
-┣━━☞*Owner bot*☜━
+┣━━☞*𝑫𝑶𝑵𝑶 𝑫𝑶 𝑩𝑶𝑻*☜━
 ┣⊱ *${prefix}clearall*
 ┣⊱ *${prefix}block*
 ┣⊱ *${prefix}unblock*
@@ -85,10 +85,10 @@ const help = (prefix) => {
 ┣⊱ *${prefix}setpp*
 ┣⊱ *${prefix}setprefix*
 ┣━━━━━━━━━━━━━━━━━━━━━━
-    *BOT BY BRUXINHO MODS*
+    *BOT BY 𝑪𝒀𝑪𝑯𝑹𝑰𝑺*
 =============================
-EAE KARAY DA UMA PASSADA LA NO MEU CANAL      POHA E TMJ💪♥️
-============================= https://youtube.com/channel/UCalQOjX5BFqim6x8JyCMM-w
+oie sao 5 e 23 da manha to morrendo de sono😎👍
+============================= 
 =============================
 
 `
