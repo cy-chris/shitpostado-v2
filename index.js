@@ -151,18 +151,18 @@ client.on('group-participants-update', async (anu) => {
 			const isCmd = body.startsWith(prefix)
 
 			mess = {
-				wait: '❬❗❭ AGUARDE UM POUCO MAN',
+				wait: '❬❗❭ ESPERA PORRA',
 				success: '️❬ ✔ ❭ SUCESSO 🖤',
 				error: {
 					stick: 'Yah gagal ;(, coba ulangi ^_^',
 					Iv: 'PUTS LINK INVÁLIDO☹️'
 				},
 				only: {
-					group: '❬❗❭ 𝗚𝗥𝗢𝗨𝗣 𝗢𝗡𝗟𝗬 ',
+					group: '❬❗❭ SO EM GRUPOS ',
 					ownerG: '❬❗❭ 𝗢𝗪𝗡𝗘𝗥 𝗢𝗡𝗟𝗬 ',
 					ownerB: '❬❗❭  𝗢𝗪𝗡𝗘𝗥 𝗢𝗡𝗟𝗬 ',
-					admin: '❬❗❭ 𝗔𝗗𝗠𝗜𝗡 𝗢𝗡𝗟𝗬 ',
-					Badmin: '❬❗❭ 𝗕𝗢𝗧 𝗛𝗔𝗥𝗨𝗦 𝗝𝗔𝗗𝗜 𝗔𝗗𝗠𝗜𝗡 '
+					admin: '❬❗❭ SO PARA ADM ',
+					Badmin: '❬❗❭ O BOT TEM QUE SER ADM '
 				}
 			}
 
