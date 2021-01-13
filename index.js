@@ -48,7 +48,7 @@ const bulan = arrayBulan[moment().format('MM') - 1]
 const config = {
     XBOT: '❉AmpibI❉', 
     instagram: 'https://instagram.com/cychris_fds.trash', 
-    nomer: 'wa.me/6282334297175',
+    nomer: 'wa.me//5581996207906',
     youtube: 'OFF', 
     whatsapp: 'OFF', 
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
